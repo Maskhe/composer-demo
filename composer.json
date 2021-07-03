@@ -1,0 +1,11 @@
+{
+    "name": "tntaxin/composer-demo",
+    "description": "test",
+    "authors": [
+        {
+            "name": "tntaxin",
+            "email": "tntaxin@sicnu.tech"
+        }
+    ],
+    "require": {}
+}
